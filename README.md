@@ -43,7 +43,7 @@ As imagens desta seção foram **extraídas diretamente do PDF do artigo, sem ge
 
 ### Figura 1 — Etapa de pré-montagem e validação do circuito desenvolvida no ambiente de simulação Wokwi
 
-![Etapa de pré-montagem e validação do circuito desenvolvida no ambiente de simulação Wokwi](assets/figura1-wokwi.jpg)
+![Etapa de pré-montagem e validação do circuito desenvolvida no ambiente de simulação Wokwi](imagens/figura1-wokwi.jpg)
 
 *Fonte: Figura 1 do artigo, página 7 (WOKWI, 2026).*
 
@@ -51,13 +51,13 @@ As imagens desta seção foram **extraídas diretamente do PDF do artigo, sem ge
 
 | Fotografia original à esquerda | Fotografia original à direita |
 | :---: | :---: |
-| ![Primeira fotografia da montagem real em protoboard](assets/figura2-protoboard.jpg) | ![Segunda fotografia da montagem real com o sensor no servomotor](assets/figura2-sonar.jpg) |
+| ![Primeira fotografia da montagem real em protoboard](imagens/figura2-protoboard.jpg) | ![Segunda fotografia da montagem real com o sensor no servomotor](imagens/figura2-sonar.jpg) |
 
 *Fonte: Figura 2 do artigo, página 8. A figura publicada é composta por essas duas fotografias, aqui exibidas lado a lado, sem alterações nos arquivos originais.*
 
 ### Figura 3 — Interface gráfica polar de visualização do sonar em tempo real, executada a partir do Prompt de Comando do Windows
 
-![Interface gráfica polar de visualização do sonar em tempo real](assets/figura3-interface-polar.jpg)
+![Interface gráfica polar de visualização do sonar em tempo real](imagens/figura3-interface-polar.jpg)
 
 *Fonte: Figura 3 do artigo, página 10.*
 
