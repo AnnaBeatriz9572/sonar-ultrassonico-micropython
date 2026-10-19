@@ -72,7 +72,7 @@ sonar-ultrassonico-micropython/
 ├── Interface/
 │   ├── tela_sonar.py
 │   └── README.md
-├── assets/
+├── imagens/
 │   ├── figura1-wokwi.jpg
 │   ├── figura2-protoboard.jpg
 │   ├── figura2-sonar.jpg
